@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<layers>
+  <layer
+      name="tpa.theme"
+      interface="tpa.theme.interfaces.ITpaThemeLayer"
+      />
+</layers>

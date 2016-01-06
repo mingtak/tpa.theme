@@ -1,0 +1,6 @@
+[report]
+include =
+    src/tpa/*
+omit =
+    */test*
+    */upgrades/*
